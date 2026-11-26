@@ -122,4 +122,4 @@ Never give the AI a login that can run `DELETE` or `DROP`.
 
 ---
 
-**Next:** Build a SQL Server MCP server in .NET, step by step.
+**Next:** [02 — MCP Core Concepts](02-mcp-core-concepts.md)
